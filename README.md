@@ -1,4 +1,4 @@
 neo4j-buildsample
 =================
 
-A buildsample using neo4j graph database service
+A buildsample written in Ruby, that uses `neo4j` graph database service
