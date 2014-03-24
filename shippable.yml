@@ -5,6 +5,9 @@ rvm:
 
 services:
   - neo4j
+  
+before_install:
+  - rvm use jruby
 
 install:
   - gem install neo4j
