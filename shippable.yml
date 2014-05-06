@@ -1,7 +1,7 @@
 language: ruby
 
 rvm:
-  - jruby-1.7.9
+  - jruby-1.7.12
 
 services:
   - neo4j
