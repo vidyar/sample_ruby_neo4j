@@ -6,9 +6,5 @@ rvm:
 services:
   - neo4j
   
-install:
-  - gem install neo4j
-  - gem install neo4j-community
-
 script:
   - ruby sample.rb
