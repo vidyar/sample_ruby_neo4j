@@ -1,6 +1,6 @@
 language: ruby
 
-build_image: drydock/u12ruball:tip
+build_image: drydock/u14ruball:tip
 
 rvm:
   - 1.9.3
@@ -8,6 +8,7 @@ rvm:
   - 2.1.5
   - 2.2.1
   - jruby-1.7.12
+  - jruby-1.7.16
 
 services:
   - neo4j
